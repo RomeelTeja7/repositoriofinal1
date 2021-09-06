@@ -1,0 +1,26 @@
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  
+  background-color: rgb(204, 202, 202) ;
+  border-radius: 12px;
+  cursor:pointer;
+  width: 700px;
+
+}
+
+h1{
+    text-align: center;
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+img{
+  display:block;
+  margin:auto;
+  width: 200px; height: 200px;
+  }
